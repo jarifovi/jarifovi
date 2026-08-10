@@ -87,16 +87,10 @@
 
 ---
 
-### 📊 GitHub Activity & Streak
+### 📊 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=jarifovi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jarifovi&theme=tokyo-night&hide_border=true" alt="Jarif's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jarifovi&theme=tokyo-night&hide_border=true" alt="Jarif's Contribution Activity Graph" />
 </div>
 
 ---
