@@ -43,18 +43,34 @@
 ### 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,html,css,flutter,dart,mysql,bootstrap,git,github,vscode&perline=11" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=php,js,html,css,flutter,dart,mysql,bootstrap,linux,firebase,postman,figma,git,github,vscode,androidstudio&perline=8" alt="My Tech Stack" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Mobile-Flutter%20%7C%20Dart-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Mobile" />
-  <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20MySQL-4F5D95?style=flat-square&logo=php&logoColor=white" alt="Backend" />
+  <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20MySQL%20%7C%20Firebase-4F5D95?style=flat-square&logo=php&logoColor=white" alt="Backend" />
   <img src="https://img.shields.io/badge/Frontend-JS%20%7C%20HTML5%20%7C%20CSS3%20%7C%20Bootstrap-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Frontend" />
   <img src="https://img.shields.io/badge/Security-Vulnerability%20Assessment%20%7C%20Monitoring-red?style=flat-square&logo=shield&logoColor=white" alt="Security" />
-  <img src="https://img.shields.io/badge/Tools-Git%20%7C%20GitHub%20%7C%20VS%20Code-181717?style=flat-square&logo=git&logoColor=white" alt="Tools" />
+  <img src="https://img.shields.io/badge/Tools-Linux%20%7C%20Postman%20%7C%20Figma%20%7C%20Git-181717?style=flat-square&logo=git&logoColor=white" alt="Tools" />
 </div>
+
+---
+
+### 🎯 Current Skills & Goal Progress
+
+<p>📱 <b>Flutter & Dart Mobile App Development</b> (85%)</p>
+<img src="https://geps.dev/progress/85?color=38BDF8" alt="Flutter Progress" />
+
+<p>💻 <b>PHP & MySQL Full-Stack Web Systems</b> (90%)</p>
+<img src="https://geps.dev/progress/90?color=38BDF8" alt="PHP Progress" />
+
+<p>🛡️ <b>Cybersecurity & Threat Monitoring</b> (80%)</p>
+<img src="https://geps.dev/progress/80?color=38BDF8" alt="Cybersecurity Progress" />
+
+<p>🌐 <b>REST APIs & Database Architecture</b> (85%)</p>
+<img src="https://geps.dev/progress/85?color=38BDF8" alt="API Progress" />
 
 ---
 
