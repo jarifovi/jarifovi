@@ -54,17 +54,16 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Activity & Streak
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jarifovi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jarif's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarifovi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=jarifovi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jarifovi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jarifovi&theme=tokyo-night&hide_border=true" alt="Jarif's Contribution Graph" />
 </div>
 
 ---
