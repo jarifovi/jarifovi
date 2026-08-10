@@ -69,6 +69,16 @@
 
 ---
 
+### ⚡ Recent Activity Log
+
+<!--START_SECTION:activity-->
+* 🚀 Pushed new updates to [CertificateManagementSystem-main-](https://github.com/jarifovi/CertificateManagementSystem-main-)
+* 🛡️ Updated vulnerability assessment dashboard components
+* 🐍 Active streak maintained on GitHub
+<!--END_SECTION:activity-->
+
+---
+
 ### 🐍 Animated Contribution Snake
 
 <div align="center">
@@ -111,6 +121,9 @@
   <p>I am always open to collaborating on open-source projects, web development, and security tools.</p>
   <a href="https://linkedin.com/in/jarifovi7">
     <img src="https://img.shields.io/badge/Get_In_Touch-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Contact" />
+  </a>
+  <a href="https://buymeacoffee.com/jarifovi">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 </div>
 
