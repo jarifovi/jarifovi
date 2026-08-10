@@ -1,6 +1,11 @@
+<!-- Animated Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=header&text=Welcome%20to%20Jarif's%20Profile!&fontSize=32&animation=fadeIn&fontColor=ffffff" alt="Header Banner" />
+</div>
+
 <!-- Header Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=70&lines=Hi+there!+%F0%9F%91%8B+I'm+Jarif+Ovi;Full-Stack+Developer;Cybersecurity+%26+Web+Systems;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=60&lines=Full-Stack+Web+Developer;Cybersecurity+%26+Security+Dashboards;Building+Scalable+PHP+%26+JS+Systems" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -35,10 +40,19 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Skills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,bootstrap,git,github,vscode&perline=9" alt="My Tech Stack" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20MySQL-4F5D95?style=flat-square&logo=php&logoColor=white" alt="Backend" />
+  <img src="https://img.shields.io/badge/Frontend-JS%20%7C%20HTML5%20%7C%20CSS3%20%7C%20Bootstrap-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Security-Vulnerability%20Assessment%20%7C%20Monitoring-red?style=flat-square&logo=shield&logoColor=white" alt="Security" />
+  <img src="https://img.shields.io/badge/Tools-Git%20%7C%20GitHub%20%7C%20VS%20Code-181717?style=flat-square&logo=git&logoColor=white" alt="Tools" />
 </div>
 
 ---
@@ -91,6 +105,18 @@
 
 ---
 
+### 🤝 Let's Connect & Collaborate!
+
 <div align="center">
-  <sub>Designed with ❤️ by Jarif Ovi • Powered by GitHub</sub>
+  <p>I am always open to collaborating on open-source projects, web development, and security tools.</p>
+  <a href="https://linkedin.com/in/jarifovi7">
+    <img src="https://img.shields.io/badge/Get_In_Touch-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Contact" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Animated Footer Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=100&section=footer" alt="Footer Banner" />
 </div>
