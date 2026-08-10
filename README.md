@@ -74,15 +74,15 @@
 
 ---
 
-### 📌 Featured Repositories
+### 📌 Featured Projects & Live Repositories
 
-| Project | Tech Stack | Description |
-| :--- | :---: | :--- |
-| 🛡️ [**Security & Monitoring Dashboard**](https://github.com/jarifovi/Vulnerability-Assessment-and-Security-Monitoring-Dashboard) | `JavaScript` | Real-time vulnerability assessment & security analytics dashboard |
-| 🎓 [**Certificate Management System**](https://github.com/jarifovi/CertificateManagementSystem-main-) | `PHP / MySQL` | Certificate issuance & verification management platform |
-| 🚘 [**Smart Parking System**](https://github.com/jarifovi/Smart-Parking-System) | `PHP / MySQL` | Automated parking slot management system |
-| 🏨 [**Hotel Management System**](https://github.com/jarifovi/Hotel_Management_System) | `HTML / CSS` | Hotel reservation & front-desk administrative system |
-| 🌤️ [**Aether Weather**](https://github.com/jarifovi/aether-weather) | `JavaScript` | Interactive weather forecast web application |
+| Project | Tech Stack | Link |
+| :--- | :---: | :---: |
+| 🛡️ **Security & Monitoring Dashboard** | `JavaScript` | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/jarifovi/Vulnerability-Assessment-and-Security-Monitoring-Dashboard) |
+| 🎓 **Certificate Management System** | `PHP / MySQL` | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/jarifovi/CertificateManagementSystem-main-) |
+| 🚘 **Smart Parking System** | `PHP / MySQL` | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/jarifovi/Smart-Parking-System) |
+| 🏨 **Hotel Management System** | `HTML / CSS` | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/jarifovi/Hotel_Management_System) |
+| 🌤️ **Aether Weather** | `JavaScript` | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/jarifovi/aether-weather) |
 
 ---
 
