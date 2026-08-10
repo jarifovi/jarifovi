@@ -40,6 +40,18 @@
 
 ---
 
+### 🏅 Developer Rank & Achievements
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🥇_Polyglot_Developer-PHP_%7C_JS_%7C_Dart_%7C_SQL-38BDF8?style=for-the-badge" alt="Polyglot Developer" />
+  <img src="https://img.shields.io/badge/🛡️_Security_Architect-Vulnerability_Assessment-red?style=for-the-badge" alt="Security Architect" />
+  <br/>
+  <img src="https://img.shields.io/badge/📱_Cross--Platform_Engineer-Web_%26_Flutter_Mobile-02569B?style=for-the-badge" alt="Cross Platform" />
+  <img src="https://img.shields.io/badge/⚡_Clean_Code_Specialist-CI%2FCD_%26_Workflows-success?style=for-the-badge" alt="Clean Code" />
+</div>
+
+---
+
 ### 🛠️ Tech Stack & Skills
 
 <div align="center">
@@ -83,6 +95,40 @@
 | 🚘 **Smart Parking System** | `PHP / MySQL` | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/jarifovi/Smart-Parking-System) |
 | 🏨 **Hotel Management System** | `HTML / CSS` | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/jarifovi/Hotel_Management_System) |
 | 🌤️ **Aether Weather** | `JavaScript` | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/jarifovi/aether-weather) |
+
+---
+
+### 🏛️ Interactive Architecture Deep-Dives
+
+<details>
+<summary>🔑 <b>Certificate Management System Architecture (PHP / MySQL)</b></summary>
+<br/>
+
+- **Security & Auth**: Role-Based Access Control (RBAC), Prepared Statements against SQL Injection, Session Sanitization.
+- **Backend Flow**: Modular PHP architecture with automated PDF certificate generator module.
+- **Database Schema**: Relational MySQL database mapping certificate IDs, student credentials, and issuer digital signatures.
+
+</details>
+
+<details>
+<summary>🛡️ <b>Vulnerability & Security Monitoring Dashboard (JavaScript)</b></summary>
+<br/>
+
+- **Log Analytics**: Real-time parsing of system security logs and threat vector categorization.
+- **Frontend Architecture**: Interactive dark-mode dashboard with real-time UI data updates.
+- **Threat Scoring**: Automated scoring module for system vulnerability severity.
+
+</details>
+
+<details>
+<summary>📱 <b>Flutter Cross-Platform Mobile Architecture (Dart / Flutter)</b></summary>
+<br/>
+
+- **UI & State**: Reactive UI design with clean state management (Provider / BLoC pattern).
+- **Network Layer**: Asynchronous REST API integration with JSON serialization.
+- **Platform Support**: Native Android & iOS builds from a unified Dart codebase.
+
+</details>
 
 ---
 
