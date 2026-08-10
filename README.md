@@ -5,7 +5,7 @@
 
 <!-- Header Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=60&lines=Full-Stack+Web+Developer;Cybersecurity+%26+Security+Dashboards;Building+Scalable+PHP+%26+JS+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=60&lines=Full-Stack+Web+%26+Mobile+Developer;Flutter+App+Development;Cybersecurity+%26+Security+Dashboards;Building+Scalable+PHP%2C+JS+%26+Dart+Systems" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -30,12 +30,12 @@
 ```text
 🎯 Status    : Focusing & Growing
 📍 Location  : Dhaka, Bangladesh
-💡 Interest  : Full-Stack Web Development, Cybersecurity & Automation
+💡 Interest  : Full-Stack Web & Mobile Development (Flutter), Cybersecurity & Automation
 🤝 Mindset   : Growth-focused, adaptable, and passionate about solving real-world problems
 ```
 
-- 🔭 Currently building: **Certificate Management System** & **Security Monitoring Dashboards**
-- 🌱 Learning & improving: Advanced Full-Stack Architecture & Cyber Threat Analytics
+- 🔭 Currently building: **Certificate Management System**, **Flutter Apps** & **Security Monitoring Dashboards**
+- 🌱 Learning & improving: Advanced Mobile & Full-Stack Architecture, Cyber Threat Analytics
 - ⚡ Fun fact: Passionate about clean code, automated workflows, and minimalist UI designs
 
 ---
@@ -43,12 +43,13 @@
 ### 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,bootstrap,git,github,vscode&perline=9" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=php,js,html,css,flutter,dart,mysql,bootstrap,git,github,vscode&perline=11" alt="My Tech Stack" />
 </div>
 
 <br/>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Mobile-Flutter%20%7C%20Dart-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Mobile" />
   <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20MySQL-4F5D95?style=flat-square&logo=php&logoColor=white" alt="Backend" />
   <img src="https://img.shields.io/badge/Frontend-JS%20%7C%20HTML5%20%7C%20CSS3%20%7C%20Bootstrap-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Frontend" />
   <img src="https://img.shields.io/badge/Security-Vulnerability%20Assessment%20%7C%20Monitoring-red?style=flat-square&logo=shield&logoColor=white" alt="Security" />
@@ -73,8 +74,8 @@
 
 <!--START_SECTION:activity-->
 * 🚀 Pushed new updates to [CertificateManagementSystem-main-](https://github.com/jarifovi/CertificateManagementSystem-main-)
+* 📱 Developing Flutter mobile app components
 * 🛡️ Updated vulnerability assessment dashboard components
-* 🐍 Active streak maintained on GitHub
 <!--END_SECTION:activity-->
 
 ---
@@ -112,7 +113,7 @@
 ### 🤝 Let's Connect & Collaborate!
 
 <div align="center">
-  <p>I am always open to collaborating on open-source projects, web development, and security tools.</p>
+  <p>I am always open to collaborating on open-source projects, web & Flutter mobile development, and security tools.</p>
   <a href="https://linkedin.com/in/jarifovi7">
     <img src="https://img.shields.io/badge/Get_In_Touch-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Contact" />
   </a>
