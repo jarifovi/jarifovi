@@ -135,9 +135,9 @@
 ### ⚡ Recent Activity Log
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/jarifovi/jarifovi/pull/4) in [jarifovi/jarifovi](https://github.com/jarifovi/jarifovi)
-2. 💪 Opened PR [#4](https://github.com/jarifovi/jarifovi/pull/4) in [jarifovi/jarifovi](https://github.com/jarifovi/jarifovi)
-3. 💪 Opened PR [#3](https://github.com/jarifovi/jarifovi/pull/3) in [jarifovi/jarifovi](https://github.com/jarifovi/jarifovi)
+1. 🎉 Merged PR [#5](https://github.com/jarifovi/jarifovi/pull/5) in [jarifovi/jarifovi](https://github.com/jarifovi/jarifovi)
+2. 💪 Opened PR [#5](https://github.com/jarifovi/jarifovi/pull/5) in [jarifovi/jarifovi](https://github.com/jarifovi/jarifovi)
+3. ❌ Closed PR [#3](https://github.com/jarifovi/jarifovi/pull/3) in [jarifovi/jarifovi](https://github.com/jarifovi/jarifovi)
 <!--END_SECTION:activity-->
 
 ---
