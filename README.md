@@ -135,9 +135,9 @@
 ### ⚡ Recent Activity Log
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/jarifovi/jarifovi/pull/5) in [jarifovi/jarifovi](https://github.com/jarifovi/jarifovi)
-2. 💪 Opened PR [#5](https://github.com/jarifovi/jarifovi/pull/5) in [jarifovi/jarifovi](https://github.com/jarifovi/jarifovi)
-3. ❌ Closed PR [#3](https://github.com/jarifovi/jarifovi/pull/3) in [jarifovi/jarifovi](https://github.com/jarifovi/jarifovi)
+- 🚀 Merged PR [#5](https://github.com/jarifovi/jarifovi/pull/5) in [jarifovi/jarifovi](https://github.com/jarifovi/jarifovi)
+- 💪 Opened PR [#5](https://github.com/jarifovi/jarifovi/pull/5) in [jarifovi/jarifovi](https://github.com/jarifovi/jarifovi)
+- ❌ Closed PR [#3](https://github.com/jarifovi/jarifovi/pull/3) in [jarifovi/jarifovi](https://github.com/jarifovi/jarifovi)
 <!--END_SECTION:activity-->
 
 ---
@@ -189,5 +189,4 @@
 <!-- Animated Footer Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=100&section=footer" alt="Footer Banner" />
-</div>< ! - -   P u l l   S h a r k   2   - - >  
- 
+</div>
