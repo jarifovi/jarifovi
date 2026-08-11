@@ -189,4 +189,5 @@
 <!-- Animated Footer Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=100&section=footer" alt="Footer Banner" />
-</div>
+</div>< ! - -   P u l l   S h a r k   2   - - >  
+ 
